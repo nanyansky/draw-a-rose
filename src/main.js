@@ -16,7 +16,7 @@ let writeIntoStyle = false;
 
 let n = 0;
 let step = () => {
-    // html.innerHTML = showString;
+    html.innerHTML = showString;
     style.innerHTML = styleString;
     setTimeout(() => {
         // 删去无用字符
