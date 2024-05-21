@@ -83,6 +83,15 @@
     border: 5px solid var(--light-brown);
 }
 
+#521png {
+    width: 50%;
+    max-height: 100vh;
+    overflow-y: auto;
+    color: var(--dark-brown);
+    padding: 0 10px;
+    border: 5px solid var(--light-brown);
+}
+
 .dead-petals>div {
     position: absolute;
     height: 10px;
